@@ -1,0 +1,10 @@
+outputs/
+wandb/
+Blood/
+Gun/
+Horror/
+Nudity/
+Suffer/
+*.sw*
+*.png
+*.jpg

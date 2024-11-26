@@ -1,0 +1,13 @@
+wandb
+transformers
+peft
+einops
+accelerator
+datasets
+sentencepiece
+lpips
+openai
+diffusers
+tqdm
+apex
+git+https://github.com/notAI-tech/NudeNet.git
