@@ -2,6 +2,9 @@
 
 This repository contains the official implementation of [Direct Unlearning Optimization for Robust and Safe Text-to-Image Models](https://arxiv.org/abs/2407.21035).
 
+
+**Our work is accepted at :tada:NeurIPS 2024:tada:!** This repository code is based on the settings used for the NeurIPS submission and differs from the configuration in the arXiv paper. The NeurIPS version of the paper will be uploaded to arXiv soon.
+
 ## Setup
 
 ### Prerequisites
@@ -18,7 +21,7 @@ This repository contains the official implementation of [Direct Unlearning Optim
 
 2. After setting up the Docker container, run:
    ```bash
-   git clone https://github.com/naver-ai/duo
+   git clone https://github.com/naver-ai/DUO
    cd duo 
    pip install -r requirements.txt
    accelerate config
